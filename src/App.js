@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} alt="logo" />
+        <img className="App-logo" src={logo} alt="logo" />
         <p>
-          Hi jscompetency! 
+          Comming soon... 
         </p>
       </header>
     </div>
